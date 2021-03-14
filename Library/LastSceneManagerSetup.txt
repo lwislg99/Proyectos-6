@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/PRUEBA NAVMESH.unity
+- path: Assets/Scenes/PRUEBAS MAPAS.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

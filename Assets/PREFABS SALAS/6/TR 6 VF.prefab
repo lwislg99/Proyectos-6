@@ -3534,7 +3534,7 @@ GameObject:
   - component: {fileID: 6316209114503173884}
   m_Layer: 0
   m_Name: coliders dentro
-  m_TagString: NoCofre
+  m_TagString: pared
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7054,7 +7054,7 @@ GameObject:
   - component: {fileID: 2519010129676375304}
   m_Layer: 0
   m_Name: coliders
-  m_TagString: Untagged
+  m_TagString: pared
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

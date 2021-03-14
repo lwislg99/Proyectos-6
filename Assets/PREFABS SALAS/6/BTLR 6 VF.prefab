@@ -5220,7 +5220,7 @@ GameObject:
   - component: {fileID: 321068393042336103}
   m_Layer: 0
   m_Name: coliders
-  m_TagString: Untagged
+  m_TagString: pared
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
